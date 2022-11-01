@@ -6,8 +6,7 @@ description: A responsive site template designed by HTML5 Up<br /> and released 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-phone: +7 (937) 483-4304
-whatsapp: +6 (687) 085-1776
+whatsapp: +66870851776
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
